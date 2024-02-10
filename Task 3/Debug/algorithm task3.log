@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\20101\OneDrive\Documents\koleya\junior\summer\Algorihms\algorithm task3\Source.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\20101\OneDrive\Documents\koleya\junior\summer\Algorihms\algorithm task3\Source.cpp(99,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\20101\OneDrive\Documents\koleya\junior\summer\Algorihms\algorithm task3\Source.cpp(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\20101\OneDrive\Documents\koleya\junior\summer\Algorihms\algorithm task3\Source.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+  algorithm task3.vcxproj -> C:\Users\20101\OneDrive\Documents\koleya\junior\summer\Algorihms\algorithm task3\Debug\algorithm task3.exe
